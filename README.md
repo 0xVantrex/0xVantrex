@@ -48,9 +48,9 @@
 <td width="50%">
 
 ### 💻 **Development Arsenal**
-- **Frontend Wizardry** with React & modern JS
+- **Frontend Wizardry** with React, modern JS and TS
 - **Backend Engineering** with Node.js & Python
-- **Database Architecture** with MongoDB & SQL
+- **Database Architecture** with MongoDB 
 - **Responsive Design** with Tailwind CSS
 
 ### 🔒 **Security Expertise**
