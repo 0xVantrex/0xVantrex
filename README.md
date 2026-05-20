@@ -147,7 +147,7 @@
 ### **📚 Learning & Growing**
 - Advanced persistent threat (APT) techniques
 
-### **🎯 Goals for 2025**
+### **🎯 Goals for 2026**
 - Obtain CEH certification
 - Build a comprehensive pentesting framework
 
