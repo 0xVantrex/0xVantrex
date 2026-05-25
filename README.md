@@ -10,7 +10,7 @@
   
   # ⚡ 0xVantrex ⚡
   
-  ### *"Code by day, hack by night, secure everything in between"*
+  ### *"Code by day, test by night, secure everything in between"*
   
   ```ascii
    ██████╗ ██╗  ██╗██╗   ██╗ █████╗ ███╗   ██╗████████╗██████╗ ███████╗██╗  ██╗
