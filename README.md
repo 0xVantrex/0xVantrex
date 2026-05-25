@@ -29,7 +29,7 @@
 
 ## 🎯 **Who Am I?**
  
-- 🕵🏽 Hacker-in-progress (red & blue mindset)  
+- 🕵🏽 web_security-in-progress (red & blue mindset)  
 - ⚡ Founder of my own grind — building the **Vantrex empire**  
 - 🌍 Living at the intersection of **tech, security & entrepreneurship**  
 
@@ -62,8 +62,7 @@
 </td>
 <td width="50%">
 
-### 🎭 **Hacker Mindset**
-- **OSINT** reconnaissance techniques
+### 🎭 **Ethical Hacker Mindset**
 - **Social Engineering** awareness
 - **Exploit Development** & research
 - **Red Team** operations
@@ -189,11 +188,6 @@
 - **Threat Modeling**
 - **Security Training & Awareness**
 
-### 🎯 **Specialized Services**
-- **Red Team Exercises**
-- **Social Engineering Assessments**
-- **OSINT Investigations**
-
 </td>
 </tr>
 </table>
@@ -205,10 +199,10 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xVantrex)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/0xvantrex)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xVantrex)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/callagansikuche)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Elixir49812)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/0xVantrex)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vantrex1)
 
 ### **📧 Professional Inquiries**
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:callagansikuche0@gmail.com)
@@ -221,15 +215,13 @@
 
 ---
 
-### ⚡ Fun Facts
+### ⚡ Fun Fact
 - 🧩 Can spend hours cracking a challenge for that 1-line flag  
-- ⚔️ Believe in **empire-building, not job-hunting**  
-- 🎯 Goal:  **global cyber operator**  
 
 ---
 
 ### 📬 Reach Me
-- 🐦 Twitter/X: [@0xVantrex](https://x.com/0xVantrex)  
+- 🐦 Twitter/X: [@0xVantrex](https://x.com/Elixir49812)  
 - 💻 GitHub: [0xVantrex](https://github.com/0xVantrex)  
 - 🌐 Soon: [vantrex.me](#)  
 
